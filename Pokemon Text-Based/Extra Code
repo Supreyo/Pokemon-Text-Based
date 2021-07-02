@@ -1,0 +1,12 @@
+//		System.out.println(""
+//				
+//				+ "<====================================== Pokémon Arena =========================================>\n"
+//				+ "\n"
+//				+ "  1.Gyarados  5.Onix     9.Totodile   13.Tangela    17.Nidoran    21.Vulpix      25.Pidgey\n"
+//				+ "  2.Voltorb   6.Diglett  10.Seel      14.Pinsir     18.Cyndaquil  22.Charmander  26.Spearow\n"
+//				+ "  3.Mankey    7.Machop   11.Staryu    15.Venonant   19.Magmar     23.Mareep      27.Doduo\n"
+//				+ "  4.Rhyhorn   8.Wooper   12.Magikarp  16.Bulbasaur  20.Growlithe  24.Pikachu     28.Jigglypuff\n"
+//				+ "\n"
+//				+ "<==============================================================================================>"
+//				+ "\n"
+//				+ "Welcome to Pokémon Arena Trainer! Its time to choose your 4 Pokémon!");
